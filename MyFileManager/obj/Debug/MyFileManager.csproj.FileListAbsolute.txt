@@ -1,0 +1,42 @@
+c:\users\rchernigovskikh\documents\visual studio 2015\Projects\MyFileManager\MyFileManager\bin\Debug\MyFileManager.exe.config
+c:\users\rchernigovskikh\documents\visual studio 2015\Projects\MyFileManager\MyFileManager\bin\Debug\MyFileManager.exe
+c:\users\rchernigovskikh\documents\visual studio 2015\Projects\MyFileManager\MyFileManager\bin\Debug\MyFileManager.pdb
+c:\users\rchernigovskikh\documents\visual studio 2015\Projects\MyFileManager\MyFileManager\obj\Debug\MyFileManager.csprojResolveAssemblyReference.cache
+c:\users\rchernigovskikh\documents\visual studio 2015\Projects\MyFileManager\MyFileManager\obj\Debug\MyFileManager.MainForm.resources
+c:\users\rchernigovskikh\documents\visual studio 2015\Projects\MyFileManager\MyFileManager\obj\Debug\MyFileManager.Properties.Resources.resources
+c:\users\rchernigovskikh\documents\visual studio 2015\Projects\MyFileManager\MyFileManager\obj\Debug\MyFileManager.csproj.GenerateResource.Cache
+c:\users\rchernigovskikh\documents\visual studio 2015\Projects\MyFileManager\MyFileManager\obj\Debug\MyFileManager.exe
+c:\users\rchernigovskikh\documents\visual studio 2015\Projects\MyFileManager\MyFileManager\obj\Debug\MyFileManager.pdb
+C:\Users\rchernigovskikh\Documents\Visual Studio 2015\Projects\MyFileManager\MyFileManager\obj\Debug\MyFileManager.InputNameForm.resources
+C:\Users\rchernigovskikh\Documents\Visual Studio 2015\Projects\MyFileManager\MyFileManager\obj\Debug\MyFileManager.ConfirmFirm.resources
+C:\Users\rchernigovskikh\Documents\Visual Studio 2015\Projects\MyFileManager\MyFileManager\obj\Debug\MyFileManager.FileInfoForm.resources
+C:\Users\rchernigovskikh\Documents\Visual Studio 2015\Projects\MyFileManager\MyFileManager\obj\Debug\MyFileManager.FolderInfoForm.resources
+C:\Users\rchernigovskikh\Documents\Visual Studio 2015\Projects\MyFileManager\MyFileManager\bin\Debug\antlr.runtime.dll
+G:\MyFileManager\MyFileManager\bin\Debug\MyFileManager.exe.config
+G:\MyFileManager\MyFileManager\obj\Debug\MyFileManager.exe
+G:\MyFileManager\MyFileManager\obj\Debug\MyFileManager.pdb
+G:\MyFileManager\MyFileManager\bin\Debug\MyFileManager.exe
+G:\MyFileManager\MyFileManager\bin\Debug\MyFileManager.pdb
+G:\MyFileManager\MyFileManager\bin\Debug\antlr.runtime.dll
+G:\MyFileManager\MyFileManager\obj\Debug\MyFileManager.csprojResolveAssemblyReference.cache
+G:\MyFileManager\MyFileManager\obj\Debug\MyFileManager.ConfirmFirm.resources
+G:\MyFileManager\MyFileManager\obj\Debug\MyFileManager.FileInfoForm.resources
+G:\MyFileManager\MyFileManager\obj\Debug\MyFileManager.FolderInfoForm.resources
+G:\MyFileManager\MyFileManager\obj\Debug\MyFileManager.InputNameForm.resources
+G:\MyFileManager\MyFileManager\obj\Debug\MyFileManager.MainForm.resources
+G:\MyFileManager\MyFileManager\obj\Debug\MyFileManager.Properties.Resources.resources
+G:\MyFileManager\MyFileManager\obj\Debug\MyFileManager.csproj.GenerateResource.Cache
+D:\MyFileManager\MyFileManager\bin\Debug\MyFileManager.exe.config
+D:\MyFileManager\MyFileManager\obj\Debug\MyFileManager.exe
+D:\MyFileManager\MyFileManager\obj\Debug\MyFileManager.pdb
+D:\MyFileManager\MyFileManager\bin\Debug\MyFileManager.exe
+D:\MyFileManager\MyFileManager\bin\Debug\MyFileManager.pdb
+D:\MyFileManager\MyFileManager\bin\Debug\antlr.runtime.dll
+D:\MyFileManager\MyFileManager\obj\Debug\MyFileManager.csprojResolveAssemblyReference.cache
+D:\MyFileManager\MyFileManager\obj\Debug\MyFileManager.ConfirmFirm.resources
+D:\MyFileManager\MyFileManager\obj\Debug\MyFileManager.FileInfoForm.resources
+D:\MyFileManager\MyFileManager\obj\Debug\MyFileManager.FolderInfoForm.resources
+D:\MyFileManager\MyFileManager\obj\Debug\MyFileManager.InputNameForm.resources
+D:\MyFileManager\MyFileManager\obj\Debug\MyFileManager.MainForm.resources
+D:\MyFileManager\MyFileManager\obj\Debug\MyFileManager.Properties.Resources.resources
+D:\MyFileManager\MyFileManager\obj\Debug\MyFileManager.csproj.GenerateResource.Cache
